@@ -1,2 +1,2 @@
-#Zon Phoo's VS code readme file
+#Zon Phoo's Github readme file
 This is my readme from github account.
