@@ -1,2 +1,2 @@
 # Repo-assignment
-This is my readme from VS code
+This is my readme from github account.
